@@ -1,0 +1,9 @@
+Nome: Starmie
+Ordem: 192
+Peso: 800
+Hp: 60
+Ataque: 75
+Defesa: 85
+Special-ataque: 100
+Special-defesa: 85
+Velocidade: 115

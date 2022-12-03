@@ -1,0 +1,9 @@
+Nome: Porygon
+Ordem: 225
+Peso: 365
+Hp: 65
+Ataque: 60
+Defesa: 70
+Special-ataque: 85
+Special-defesa: 75
+Velocidade: 40

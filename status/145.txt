@@ -1,0 +1,9 @@
+Nome: Zapdos
+Ordem: 238
+Peso: 526
+Hp: 90
+Ataque: 90
+Defesa: 85
+Special-ataque: 125
+Special-defesa: 90
+Velocidade: 100

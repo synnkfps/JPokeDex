@@ -1,0 +1,9 @@
+Nome: Tauros
+Ordem: 209
+Peso: 884
+Hp: 75
+Ataque: 100
+Defesa: 95
+Special-ataque: 40
+Special-defesa: 70
+Velocidade: 110

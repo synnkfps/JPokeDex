@@ -1,0 +1,9 @@
+Nome: Articuno
+Ordem: 236
+Peso: 554
+Hp: 90
+Ataque: 85
+Defesa: 100
+Special-ataque: 95
+Special-defesa: 125
+Velocidade: 85

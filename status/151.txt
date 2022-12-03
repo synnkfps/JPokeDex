@@ -1,0 +1,9 @@
+Nome: Mew
+Ordem: 248
+Peso: 40
+Hp: 100
+Ataque: 100
+Defesa: 100
+Special-ataque: 100
+Special-defesa: 100
+Velocidade: 100

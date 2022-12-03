@@ -1,0 +1,9 @@
+Nome: Kabuto
+Ordem: 230
+Peso: 115
+Hp: 30
+Ataque: 80
+Defesa: 90
+Special-ataque: 55
+Special-defesa: 45
+Velocidade: 55

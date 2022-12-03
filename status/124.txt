@@ -1,0 +1,9 @@
+Nome: Jynx
+Ordem: 200
+Peso: 406
+Hp: 65
+Ataque: 50
+Defesa: 35
+Special-ataque: 115
+Special-defesa: 95
+Velocidade: 95

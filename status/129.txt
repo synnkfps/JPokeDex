@@ -1,0 +1,9 @@
+Nome: Magikarp
+Ordem: 210
+Peso: 100
+Hp: 20
+Ataque: 10
+Defesa: 55
+Special-ataque: 15
+Special-defesa: 20
+Velocidade: 80

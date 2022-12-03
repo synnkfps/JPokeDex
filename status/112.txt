@@ -1,0 +1,9 @@
+Nome: Rhydon
+Ordem: 177
+Peso: 1200
+Hp: 105
+Ataque: 130
+Defesa: 120
+Special-ataque: 45
+Special-defesa: 45
+Velocidade: 40

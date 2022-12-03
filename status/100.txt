@@ -1,0 +1,9 @@
+Nome: Voltorb
+Ordem: 158
+Peso: 104
+Hp: 40
+Ataque: 30
+Defesa: 50
+Special-ataque: 55
+Special-defesa: 55
+Velocidade: 100

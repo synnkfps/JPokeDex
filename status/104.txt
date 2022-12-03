@@ -1,0 +1,9 @@
+Nome: Cubone
+Ordem: 163
+Peso: 65
+Hp: 50
+Ataque: 50
+Defesa: 95
+Special-ataque: 40
+Special-defesa: 50
+Velocidade: 35

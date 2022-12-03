@@ -1,0 +1,9 @@
+Nome: Gyarados
+Ordem: 211
+Peso: 2350
+Hp: 95
+Ataque: 125
+Defesa: 79
+Special-ataque: 60
+Special-defesa: 100
+Velocidade: 81

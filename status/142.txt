@@ -1,0 +1,9 @@
+Nome: Aerodactyl
+Ordem: 232
+Peso: 590
+Hp: 80
+Ataque: 105
+Defesa: 65
+Special-ataque: 60
+Special-defesa: 75
+Velocidade: 130

@@ -1,0 +1,9 @@
+Nome: Rhyhorn
+Ordem: 176
+Peso: 1150
+Hp: 80
+Ataque: 85
+Defesa: 95
+Special-ataque: 30
+Special-defesa: 30
+Velocidade: 25

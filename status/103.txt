@@ -1,0 +1,9 @@
+Nome: Exeggutor
+Ordem: 161
+Peso: 1200
+Hp: 95
+Ataque: 95
+Defesa: 85
+Special-ataque: 125
+Special-defesa: 75
+Velocidade: 55

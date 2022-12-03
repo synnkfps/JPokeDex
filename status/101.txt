@@ -1,0 +1,9 @@
+Nome: Electrode
+Ordem: 159
+Peso: 666
+Hp: 60
+Ataque: 50
+Defesa: 70
+Special-ataque: 80
+Special-defesa: 80
+Velocidade: 150

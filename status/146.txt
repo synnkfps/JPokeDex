@@ -1,0 +1,9 @@
+Nome: Moltres
+Ordem: 240
+Peso: 600
+Hp: 90
+Ataque: 100
+Defesa: 90
+Special-ataque: 125
+Special-defesa: 85
+Velocidade: 90

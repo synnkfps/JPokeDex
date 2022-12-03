@@ -1,0 +1,9 @@
+Nome: Kangaskhan
+Ordem: 184
+Peso: 800
+Hp: 105
+Ataque: 95
+Defesa: 80
+Special-ataque: 40
+Special-defesa: 80
+Velocidade: 90

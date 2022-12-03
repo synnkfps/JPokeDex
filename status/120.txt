@@ -1,0 +1,9 @@
+Nome: Staryu
+Ordem: 191
+Peso: 345
+Hp: 30
+Ataque: 45
+Defesa: 55
+Special-ataque: 70
+Special-defesa: 55
+Velocidade: 85

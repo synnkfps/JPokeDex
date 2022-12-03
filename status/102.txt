@@ -1,0 +1,9 @@
+Nome: Exeggcute
+Ordem: 160
+Peso: 25
+Hp: 60
+Ataque: 40
+Defesa: 80
+Special-ataque: 60
+Special-defesa: 45
+Velocidade: 40

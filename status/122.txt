@@ -1,0 +1,9 @@
+Nome: Mr-mime
+Ordem: 194
+Peso: 545
+Hp: 40
+Ataque: 45
+Defesa: 65
+Special-ataque: 100
+Special-defesa: 120
+Velocidade: 90

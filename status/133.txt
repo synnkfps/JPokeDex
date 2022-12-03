@@ -1,0 +1,9 @@
+Nome: Eevee
+Ordem: 215
+Peso: 65
+Hp: 55
+Ataque: 55
+Defesa: 50
+Special-ataque: 45
+Special-defesa: 65
+Velocidade: 55

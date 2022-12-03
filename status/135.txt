@@ -1,0 +1,9 @@
+Nome: Jolteon
+Ordem: 218
+Peso: 245
+Hp: 65
+Ataque: 65
+Defesa: 60
+Special-ataque: 110
+Special-defesa: 95
+Velocidade: 130

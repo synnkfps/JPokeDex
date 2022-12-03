@@ -1,0 +1,9 @@
+Nome: Koffing
+Ordem: 173
+Peso: 10
+Hp: 40
+Ataque: 65
+Defesa: 95
+Special-ataque: 60
+Special-defesa: 45
+Velocidade: 35

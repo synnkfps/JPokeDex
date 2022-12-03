@@ -1,0 +1,9 @@
+Nome: Pinsir
+Ordem: 207
+Peso: 550
+Hp: 65
+Ataque: 125
+Defesa: 100
+Special-ataque: 55
+Special-defesa: 70
+Velocidade: 85

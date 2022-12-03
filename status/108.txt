@@ -1,0 +1,9 @@
+Nome: Lickitung
+Ordem: 171
+Peso: 655
+Hp: 90
+Ataque: 55
+Defesa: 75
+Special-ataque: 60
+Special-defesa: 75
+Velocidade: 30

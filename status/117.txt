@@ -1,0 +1,9 @@
+Nome: Seadra
+Ordem: 187
+Peso: 250
+Hp: 55
+Ataque: 65
+Defesa: 95
+Special-ataque: 95
+Special-defesa: 45
+Velocidade: 85

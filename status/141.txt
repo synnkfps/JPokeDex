@@ -1,0 +1,9 @@
+Nome: Kabutops
+Ordem: 231
+Peso: 405
+Hp: 60
+Ataque: 115
+Defesa: 105
+Special-ataque: 65
+Special-defesa: 70
+Velocidade: 80

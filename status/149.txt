@@ -1,0 +1,9 @@
+Nome: Dragonite
+Ordem: 244
+Peso: 2100
+Hp: 91
+Ataque: 134
+Defesa: 95
+Special-ataque: 100
+Special-defesa: 100
+Velocidade: 80

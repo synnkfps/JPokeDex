@@ -1,0 +1,9 @@
+Nome: Dragonair
+Ordem: 243
+Peso: 165
+Hp: 61
+Ataque: 84
+Defesa: 65
+Special-ataque: 70
+Special-defesa: 70
+Velocidade: 70

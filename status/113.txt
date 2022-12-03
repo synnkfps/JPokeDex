@@ -1,0 +1,9 @@
+Nome: Chansey
+Ordem: 180
+Peso: 346
+Hp: 250
+Ataque: 5
+Defesa: 5
+Special-ataque: 35
+Special-defesa: 105
+Velocidade: 50

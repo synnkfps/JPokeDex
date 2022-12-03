@@ -1,0 +1,9 @@
+Nome: Ditto
+Ordem: 214
+Peso: 40
+Hp: 48
+Ataque: 48
+Defesa: 48
+Special-ataque: 48
+Special-defesa: 48
+Velocidade: 48

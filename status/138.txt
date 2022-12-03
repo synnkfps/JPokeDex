@@ -1,0 +1,9 @@
+Nome: Omanyte
+Ordem: 228
+Peso: 75
+Hp: 35
+Ataque: 40
+Defesa: 100
+Special-ataque: 90
+Special-defesa: 55
+Velocidade: 35

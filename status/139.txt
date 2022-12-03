@@ -1,0 +1,9 @@
+Nome: Omastar
+Ordem: 229
+Peso: 350
+Hp: 70
+Ataque: 60
+Defesa: 125
+Special-ataque: 115
+Special-defesa: 70
+Velocidade: 55

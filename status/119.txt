@@ -1,0 +1,9 @@
+Nome: Seaking
+Ordem: 190
+Peso: 390
+Hp: 80
+Ataque: 92
+Defesa: 65
+Special-ataque: 65
+Special-defesa: 80
+Velocidade: 68

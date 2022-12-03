@@ -1,0 +1,9 @@
+Nome: Flareon
+Ordem: 219
+Peso: 250
+Hp: 65
+Ataque: 130
+Defesa: 60
+Special-ataque: 95
+Special-defesa: 110
+Velocidade: 65

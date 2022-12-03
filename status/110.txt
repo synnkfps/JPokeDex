@@ -1,0 +1,9 @@
+Nome: Weezing
+Ordem: 174
+Peso: 95
+Hp: 65
+Ataque: 90
+Defesa: 120
+Special-ataque: 85
+Special-defesa: 70
+Velocidade: 60

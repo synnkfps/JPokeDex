@@ -1,0 +1,9 @@
+Nome: Marowak
+Ordem: 164
+Peso: 450
+Hp: 60
+Ataque: 80
+Defesa: 110
+Special-ataque: 50
+Special-defesa: 80
+Velocidade: 45

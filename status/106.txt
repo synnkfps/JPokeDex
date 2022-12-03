@@ -1,0 +1,9 @@
+Nome: Hitmonlee
+Ordem: 168
+Peso: 498
+Hp: 50
+Ataque: 120
+Defesa: 53
+Special-ataque: 35
+Special-defesa: 110
+Velocidade: 87

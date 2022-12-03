@@ -1,0 +1,9 @@
+Nome: Tangela
+Ordem: 182
+Peso: 350
+Hp: 65
+Ataque: 55
+Defesa: 115
+Special-ataque: 100
+Special-defesa: 40
+Velocidade: 60

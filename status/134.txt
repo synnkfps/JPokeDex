@@ -1,0 +1,9 @@
+Nome: Vaporeon
+Ordem: 217
+Peso: 290
+Hp: 130
+Ataque: 65
+Defesa: 60
+Special-ataque: 110
+Special-defesa: 95
+Velocidade: 65

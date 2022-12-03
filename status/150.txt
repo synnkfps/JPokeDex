@@ -1,0 +1,9 @@
+Nome: Mewtwo
+Ordem: 245
+Peso: 1220
+Hp: 106
+Ataque: 110
+Defesa: 90
+Special-ataque: 154
+Special-defesa: 90
+Velocidade: 130

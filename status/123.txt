@@ -1,0 +1,9 @@
+Nome: Scyther
+Ordem: 196
+Peso: 560
+Hp: 70
+Ataque: 110
+Defesa: 80
+Special-ataque: 55
+Special-defesa: 80
+Velocidade: 105

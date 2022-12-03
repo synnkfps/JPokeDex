@@ -1,0 +1,9 @@
+Nome: Magmar
+Ordem: 205
+Peso: 445
+Hp: 65
+Ataque: 95
+Defesa: 57
+Special-ataque: 100
+Special-defesa: 85
+Velocidade: 93

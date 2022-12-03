@@ -1,0 +1,9 @@
+Nome: Lapras
+Ordem: 213
+Peso: 2200
+Hp: 130
+Ataque: 85
+Defesa: 80
+Special-ataque: 85
+Special-defesa: 95
+Velocidade: 60

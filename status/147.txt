@@ -1,0 +1,9 @@
+Nome: Dratini
+Ordem: 242
+Peso: 33
+Hp: 41
+Ataque: 64
+Defesa: 45
+Special-ataque: 50
+Special-defesa: 50
+Velocidade: 50

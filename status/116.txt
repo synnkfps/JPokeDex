@@ -1,0 +1,9 @@
+Nome: Horsea
+Ordem: 186
+Peso: 80
+Hp: 30
+Ataque: 40
+Defesa: 70
+Special-ataque: 70
+Special-defesa: 25
+Velocidade: 60
