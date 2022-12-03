@@ -1,0 +1,9 @@
+Nome: Persian
+Ordem: 91
+Peso: 320
+Hp: 65
+Ataque: 70
+Defesa: 60
+Special-ataque: 65
+Special-defesa: 65
+Velocidade: 115

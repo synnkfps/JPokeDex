@@ -1,0 +1,9 @@
+Nome: Grimer
+Ordem: 141
+Peso: 300
+Hp: 80
+Ataque: 80
+Defesa: 50
+Special-ataque: 40
+Special-defesa: 50
+Velocidade: 25

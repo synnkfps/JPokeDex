@@ -1,0 +1,9 @@
+Nome: Tentacruel
+Ordem: 114
+Peso: 550
+Hp: 80
+Ataque: 70
+Defesa: 65
+Special-ataque: 80
+Special-defesa: 120
+Velocidade: 100

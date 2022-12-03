@@ -1,0 +1,9 @@
+Nome: Charmeleon
+Ordem: 6
+Peso: 190
+Hp: 58
+Ataque: 64
+Defesa: 58
+Special-ataque: 80
+Special-defesa: 65
+Velocidade: 80

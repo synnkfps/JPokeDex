@@ -1,0 +1,9 @@
+Nome: Squirtle
+Ordem: 10
+Peso: 90
+Hp: 44
+Ataque: 48
+Defesa: 65
+Special-ataque: 50
+Special-defesa: 64
+Velocidade: 43

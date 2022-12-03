@@ -1,0 +1,9 @@
+Nome: Raichu
+Ordem: 51
+Peso: 300
+Hp: 60
+Ataque: 90
+Defesa: 55
+Special-ataque: 90
+Special-defesa: 80
+Velocidade: 110

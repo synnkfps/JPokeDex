@@ -1,0 +1,9 @@
+Nome: Gloom
+Ordem: 77
+Peso: 86
+Hp: 60
+Ataque: 65
+Defesa: 70
+Special-ataque: 85
+Special-defesa: 75
+Velocidade: 40

@@ -1,0 +1,9 @@
+Nome: Clefairy
+Ordem: 64
+Peso: 75
+Hp: 70
+Ataque: 45
+Defesa: 48
+Special-ataque: 60
+Special-defesa: 65
+Velocidade: 35

@@ -1,0 +1,9 @@
+Nome: Pidgeot
+Ordem: 23
+Peso: 395
+Hp: 83
+Ataque: 80
+Defesa: 75
+Special-ataque: 70
+Special-defesa: 70
+Velocidade: 101

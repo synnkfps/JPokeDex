@@ -1,0 +1,9 @@
+Nome: Vileplume
+Ordem: 78
+Peso: 186
+Hp: 75
+Ataque: 80
+Defesa: 85
+Special-ataque: 110
+Special-defesa: 90
+Velocidade: 50

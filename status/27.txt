@@ -1,0 +1,9 @@
+Nome: Sandshrew
+Ordem: 53
+Peso: 120
+Hp: 50
+Ataque: 75
+Defesa: 85
+Special-ataque: 20
+Special-defesa: 30
+Velocidade: 40

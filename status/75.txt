@@ -1,0 +1,9 @@
+Nome: Graveler
+Ordem: 117
+Peso: 1050
+Hp: 55
+Ataque: 95
+Defesa: 115
+Special-ataque: 45
+Special-defesa: 45
+Velocidade: 35

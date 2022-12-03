@@ -1,0 +1,9 @@
+Nome: Weepinbell
+Ordem: 111
+Peso: 64
+Hp: 65
+Ataque: 90
+Defesa: 50
+Special-ataque: 85
+Special-defesa: 45
+Velocidade: 55

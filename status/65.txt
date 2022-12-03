@@ -1,0 +1,9 @@
+Nome: Alakazam
+Ordem: 105
+Peso: 480
+Hp: 55
+Ataque: 50
+Defesa: 45
+Special-ataque: 135
+Special-defesa: 95
+Velocidade: 120

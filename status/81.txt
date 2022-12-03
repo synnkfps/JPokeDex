@@ -1,0 +1,9 @@
+Nome: Magnemite
+Ordem: 132
+Peso: 60
+Hp: 25
+Ataque: 35
+Defesa: 70
+Special-ataque: 95
+Special-defesa: 55
+Velocidade: 45

@@ -1,0 +1,9 @@
+Nome: Drowzee
+Ordem: 154
+Peso: 324
+Hp: 60
+Ataque: 48
+Defesa: 45
+Special-ataque: 43
+Special-defesa: 90
+Velocidade: 42

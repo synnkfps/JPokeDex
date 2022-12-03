@@ -1,0 +1,9 @@
+Nome: Nidoqueen
+Ordem: 59
+Peso: 600
+Hp: 90
+Ataque: 92
+Defesa: 87
+Special-ataque: 75
+Special-defesa: 85
+Velocidade: 76

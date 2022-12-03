@@ -1,0 +1,9 @@
+Nome: Golem
+Ordem: 119
+Peso: 3000
+Hp: 80
+Ataque: 120
+Defesa: 130
+Special-ataque: 55
+Special-defesa: 65
+Velocidade: 45

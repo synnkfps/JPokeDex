@@ -1,0 +1,9 @@
+Nome: Poliwhirl
+Ordem: 100
+Peso: 200
+Hp: 65
+Ataque: 65
+Defesa: 65
+Special-ataque: 50
+Special-defesa: 50
+Velocidade: 90

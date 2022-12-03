@@ -1,0 +1,9 @@
+Nome: Raticate
+Ordem: 27
+Peso: 185
+Hp: 55
+Ataque: 81
+Defesa: 60
+Special-ataque: 50
+Special-defesa: 70
+Velocidade: 97

@@ -1,0 +1,9 @@
+Nome: Blastoise
+Ordem: 12
+Peso: 855
+Hp: 79
+Ataque: 83
+Defesa: 100
+Special-ataque: 85
+Special-defesa: 105
+Velocidade: 78

@@ -1,0 +1,9 @@
+Nome: Hypno
+Ordem: 155
+Peso: 756
+Hp: 85
+Ataque: 73
+Defesa: 70
+Special-ataque: 73
+Special-defesa: 115
+Velocidade: 67

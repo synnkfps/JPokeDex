@@ -1,0 +1,9 @@
+Nome: Wigglytuff
+Ordem: 72
+Peso: 120
+Hp: 140
+Ataque: 70
+Defesa: 45
+Special-ataque: 85
+Special-defesa: 50
+Velocidade: 45

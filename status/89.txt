@@ -1,0 +1,9 @@
+Nome: Muk
+Ordem: 143
+Peso: 300
+Hp: 105
+Ataque: 105
+Defesa: 75
+Special-ataque: 65
+Special-defesa: 100
+Velocidade: 50

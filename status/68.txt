@@ -1,0 +1,9 @@
+Nome: Machamp
+Ordem: 109
+Peso: 1300
+Hp: 90
+Ataque: 130
+Defesa: 80
+Special-ataque: 65
+Special-defesa: 85
+Velocidade: 55

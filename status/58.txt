@@ -1,0 +1,9 @@
+Nome: Growlithe
+Ordem: 97
+Peso: 190
+Hp: 55
+Ataque: 70
+Defesa: 45
+Special-ataque: 70
+Special-defesa: 50
+Velocidade: 60

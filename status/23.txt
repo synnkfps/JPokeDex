@@ -1,0 +1,9 @@
+Nome: Ekans
+Ordem: 32
+Peso: 69
+Hp: 35
+Ataque: 60
+Defesa: 44
+Special-ataque: 40
+Special-defesa: 54
+Velocidade: 55

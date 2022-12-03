@@ -1,0 +1,9 @@
+Nome: Rattata
+Ordem: 25
+Peso: 35
+Hp: 30
+Ataque: 56
+Defesa: 35
+Special-ataque: 25
+Special-defesa: 35
+Velocidade: 72

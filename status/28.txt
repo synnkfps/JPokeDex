@@ -1,0 +1,9 @@
+Nome: Sandslash
+Ordem: 55
+Peso: 295
+Hp: 75
+Ataque: 100
+Defesa: 110
+Special-ataque: 45
+Special-defesa: 55
+Velocidade: 65

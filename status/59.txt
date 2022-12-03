@@ -1,0 +1,9 @@
+Nome: Arcanine
+Ordem: 98
+Peso: 1550
+Hp: 90
+Ataque: 110
+Defesa: 80
+Special-ataque: 100
+Special-defesa: 80
+Velocidade: 95

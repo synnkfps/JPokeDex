@@ -1,0 +1,9 @@
+Nome: Metapod
+Ordem: 15
+Peso: 99
+Hp: 50
+Ataque: 20
+Defesa: 55
+Special-ataque: 25
+Special-defesa: 25
+Velocidade: 30

@@ -1,0 +1,9 @@
+Nome: Pidgey
+Ordem: 21
+Peso: 18
+Hp: 40
+Ataque: 45
+Defesa: 40
+Special-ataque: 35
+Special-defesa: 35
+Velocidade: 56

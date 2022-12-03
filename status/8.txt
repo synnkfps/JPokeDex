@@ -1,0 +1,9 @@
+Nome: Wartortle
+Ordem: 11
+Peso: 225
+Hp: 59
+Ataque: 63
+Defesa: 80
+Special-ataque: 65
+Special-defesa: 80
+Velocidade: 58

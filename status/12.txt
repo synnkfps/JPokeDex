@@ -1,0 +1,9 @@
+Nome: Butterfree
+Ordem: 16
+Peso: 320
+Hp: 60
+Ataque: 45
+Defesa: 50
+Special-ataque: 90
+Special-defesa: 80
+Velocidade: 70

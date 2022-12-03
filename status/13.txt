@@ -1,0 +1,9 @@
+Nome: Weedle
+Ordem: 17
+Peso: 32
+Hp: 40
+Ataque: 35
+Defesa: 30
+Special-ataque: 20
+Special-defesa: 20
+Velocidade: 50

@@ -1,0 +1,9 @@
+Nome: Venusaur
+Ordem: 3
+Peso: 1000
+Hp: 80
+Ataque: 82
+Defesa: 83
+Special-ataque: 100
+Special-defesa: 100
+Velocidade: 80

@@ -1,0 +1,9 @@
+Nome: Venomoth
+Ordem: 83
+Peso: 125
+Hp: 70
+Ataque: 65
+Defesa: 60
+Special-ataque: 90
+Special-defesa: 75
+Velocidade: 90

@@ -1,0 +1,9 @@
+Nome: Oddish
+Ordem: 76
+Peso: 54
+Hp: 45
+Ataque: 50
+Defesa: 55
+Special-ataque: 75
+Special-defesa: 65
+Velocidade: 30

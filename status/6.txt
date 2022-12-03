@@ -1,0 +1,9 @@
+Nome: Charizard
+Ordem: 7
+Peso: 905
+Hp: 78
+Ataque: 84
+Defesa: 78
+Special-ataque: 109
+Special-defesa: 85
+Velocidade: 100

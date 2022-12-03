@@ -1,0 +1,9 @@
+Nome: Seel
+Ordem: 139
+Peso: 900
+Hp: 65
+Ataque: 45
+Defesa: 55
+Special-ataque: 45
+Special-defesa: 70
+Velocidade: 45

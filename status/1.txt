@@ -1,0 +1,9 @@
+Nome: Bulbasaur
+Ordem: 1
+Peso: 69
+Hp: 45
+Ataque: 49
+Defesa: 49
+Special-ataque: 65
+Special-defesa: 65
+Velocidade: 45

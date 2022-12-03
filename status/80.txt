@@ -1,0 +1,9 @@
+Nome: Slowbro
+Ordem: 127
+Peso: 785
+Hp: 95
+Ataque: 75
+Defesa: 110
+Special-ataque: 100
+Special-defesa: 80
+Velocidade: 30

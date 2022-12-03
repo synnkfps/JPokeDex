@@ -1,0 +1,9 @@
+Nome: Bellsprout
+Ordem: 110
+Peso: 40
+Hp: 50
+Ataque: 75
+Defesa: 35
+Special-ataque: 70
+Special-defesa: 30
+Velocidade: 40

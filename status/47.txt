@@ -1,0 +1,9 @@
+Nome: Parasect
+Ordem: 81
+Peso: 295
+Hp: 60
+Ataque: 95
+Defesa: 80
+Special-ataque: 60
+Special-defesa: 80
+Velocidade: 30

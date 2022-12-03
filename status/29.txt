@@ -1,0 +1,9 @@
+Nome: Nidoran-f
+Ordem: 57
+Peso: 70
+Hp: 55
+Ataque: 47
+Defesa: 52
+Special-ataque: 40
+Special-defesa: 40
+Velocidade: 41

@@ -1,0 +1,9 @@
+Nome: Nidoran-m
+Ordem: 60
+Peso: 90
+Hp: 46
+Ataque: 57
+Defesa: 40
+Special-ataque: 40
+Special-defesa: 40
+Velocidade: 50

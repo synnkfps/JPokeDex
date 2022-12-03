@@ -1,0 +1,9 @@
+Nome: Gengar
+Ordem: 149
+Peso: 405
+Hp: 60
+Ataque: 65
+Defesa: 60
+Special-ataque: 130
+Special-defesa: 75
+Velocidade: 110

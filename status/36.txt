@@ -1,0 +1,9 @@
+Nome: Clefable
+Ordem: 65
+Peso: 400
+Hp: 95
+Ataque: 70
+Defesa: 73
+Special-ataque: 95
+Special-defesa: 90
+Velocidade: 60

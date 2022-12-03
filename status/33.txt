@@ -1,0 +1,9 @@
+Nome: Nidorino
+Ordem: 61
+Peso: 195
+Hp: 61
+Ataque: 72
+Defesa: 57
+Special-ataque: 55
+Special-defesa: 55
+Velocidade: 65

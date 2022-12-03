@@ -1,0 +1,9 @@
+Nome: Ninetales
+Ordem: 68
+Peso: 199
+Hp: 73
+Ataque: 76
+Defesa: 75
+Special-ataque: 81
+Special-defesa: 100
+Velocidade: 100

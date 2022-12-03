@@ -1,0 +1,9 @@
+Nome: Pikachu
+Ordem: 35
+Peso: 60
+Hp: 35
+Ataque: 55
+Defesa: 40
+Special-ataque: 50
+Special-defesa: 50
+Velocidade: 90

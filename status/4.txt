@@ -1,0 +1,9 @@
+Nome: Charmander
+Ordem: 5
+Peso: 85
+Hp: 39
+Ataque: 52
+Defesa: 43
+Special-ataque: 60
+Special-defesa: 50
+Velocidade: 65

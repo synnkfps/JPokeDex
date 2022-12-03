@@ -1,0 +1,9 @@
+Nome: Pidgeotto
+Ordem: 22
+Peso: 300
+Hp: 63
+Ataque: 60
+Defesa: 55
+Special-ataque: 50
+Special-defesa: 50
+Velocidade: 71

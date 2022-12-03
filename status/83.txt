@@ -1,0 +1,9 @@
+Nome: Farfetchd
+Ordem: 135
+Peso: 150
+Hp: 52
+Ataque: 90
+Defesa: 55
+Special-ataque: 58
+Special-defesa: 62
+Velocidade: 60

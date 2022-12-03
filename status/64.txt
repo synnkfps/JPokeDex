@@ -1,0 +1,9 @@
+Nome: Kadabra
+Ordem: 104
+Peso: 565
+Hp: 40
+Ataque: 35
+Defesa: 30
+Special-ataque: 120
+Special-defesa: 70
+Velocidade: 105

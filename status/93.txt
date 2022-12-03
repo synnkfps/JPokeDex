@@ -1,0 +1,9 @@
+Nome: Haunter
+Ordem: 148
+Peso: 1
+Hp: 45
+Ataque: 50
+Defesa: 45
+Special-ataque: 115
+Special-defesa: 55
+Velocidade: 95

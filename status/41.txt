@@ -1,0 +1,9 @@
+Nome: Zubat
+Ordem: 73
+Peso: 75
+Hp: 40
+Ataque: 45
+Defesa: 35
+Special-ataque: 30
+Special-defesa: 40
+Velocidade: 55

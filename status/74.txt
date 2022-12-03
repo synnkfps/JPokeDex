@@ -1,0 +1,9 @@
+Nome: Geodude
+Ordem: 115
+Peso: 200
+Hp: 40
+Ataque: 80
+Defesa: 100
+Special-ataque: 30
+Special-defesa: 30
+Velocidade: 20

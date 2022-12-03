@@ -1,0 +1,9 @@
+Nome: Diglett
+Ordem: 84
+Peso: 8
+Hp: 10
+Ataque: 55
+Defesa: 25
+Special-ataque: 35
+Special-defesa: 45
+Velocidade: 95

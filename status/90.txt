@@ -1,0 +1,9 @@
+Nome: Shellder
+Ordem: 145
+Peso: 40
+Hp: 30
+Ataque: 65
+Defesa: 100
+Special-ataque: 45
+Special-defesa: 25
+Velocidade: 40

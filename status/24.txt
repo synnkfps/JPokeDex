@@ -1,0 +1,9 @@
+Nome: Arbok
+Ordem: 33
+Peso: 650
+Hp: 60
+Ataque: 95
+Defesa: 69
+Special-ataque: 65
+Special-defesa: 79
+Velocidade: 80

@@ -1,0 +1,9 @@
+Nome: Poliwag
+Ordem: 99
+Peso: 124
+Hp: 40
+Ataque: 50
+Defesa: 40
+Special-ataque: 40
+Special-defesa: 40
+Velocidade: 90

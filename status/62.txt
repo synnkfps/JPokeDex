@@ -1,0 +1,9 @@
+Nome: Poliwrath
+Ordem: 101
+Peso: 540
+Hp: 90
+Ataque: 95
+Defesa: 95
+Special-ataque: 70
+Special-defesa: 90
+Velocidade: 70

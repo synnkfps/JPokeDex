@@ -1,0 +1,9 @@
+Nome: Rapidash
+Ordem: 123
+Peso: 950
+Hp: 65
+Ataque: 100
+Defesa: 70
+Special-ataque: 80
+Special-defesa: 80
+Velocidade: 105

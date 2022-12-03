@@ -1,0 +1,9 @@
+Nome: Cloyster
+Ordem: 146
+Peso: 1325
+Hp: 50
+Ataque: 95
+Defesa: 180
+Special-ataque: 85
+Special-defesa: 45
+Velocidade: 70

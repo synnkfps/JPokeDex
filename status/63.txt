@@ -1,0 +1,9 @@
+Nome: Abra
+Ordem: 103
+Peso: 195
+Hp: 25
+Ataque: 20
+Defesa: 15
+Special-ataque: 105
+Special-defesa: 55
+Velocidade: 90

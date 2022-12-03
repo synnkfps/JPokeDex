@@ -1,0 +1,9 @@
+Nome: Nidoking
+Ordem: 62
+Peso: 620
+Hp: 81
+Ataque: 102
+Defesa: 77
+Special-ataque: 85
+Special-defesa: 75
+Velocidade: 85

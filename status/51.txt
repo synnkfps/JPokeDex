@@ -1,0 +1,9 @@
+Nome: Dugtrio
+Ordem: 86
+Peso: 333
+Hp: 35
+Ataque: 100
+Defesa: 50
+Special-ataque: 50
+Special-defesa: 70
+Velocidade: 120

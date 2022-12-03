@@ -1,0 +1,9 @@
+Nome: Onix
+Ordem: 151
+Peso: 2100
+Hp: 35
+Ataque: 45
+Defesa: 160
+Special-ataque: 30
+Special-defesa: 45
+Velocidade: 70

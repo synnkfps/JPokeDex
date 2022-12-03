@@ -1,0 +1,9 @@
+Nome: Fearow
+Ordem: 31
+Peso: 380
+Hp: 65
+Ataque: 90
+Defesa: 65
+Special-ataque: 61
+Special-defesa: 61
+Velocidade: 100

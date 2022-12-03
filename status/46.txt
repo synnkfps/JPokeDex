@@ -1,0 +1,9 @@
+Nome: Paras
+Ordem: 80
+Peso: 54
+Hp: 35
+Ataque: 70
+Defesa: 55
+Special-ataque: 45
+Special-defesa: 55
+Velocidade: 25

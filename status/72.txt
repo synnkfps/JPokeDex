@@ -1,0 +1,9 @@
+Nome: Tentacool
+Ordem: 113
+Peso: 455
+Hp: 40
+Ataque: 40
+Defesa: 35
+Special-ataque: 50
+Special-defesa: 100
+Velocidade: 70

@@ -1,0 +1,9 @@
+Nome: Vulpix
+Ordem: 66
+Peso: 99
+Hp: 38
+Ataque: 41
+Defesa: 40
+Special-ataque: 50
+Special-defesa: 65
+Velocidade: 65

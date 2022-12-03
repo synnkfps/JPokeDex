@@ -1,0 +1,9 @@
+Nome: Magneton
+Ordem: 133
+Peso: 600
+Hp: 50
+Ataque: 60
+Defesa: 95
+Special-ataque: 120
+Special-defesa: 70
+Velocidade: 70

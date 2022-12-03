@@ -1,0 +1,9 @@
+Nome: Ivysaur
+Ordem: 2
+Peso: 130
+Hp: 60
+Ataque: 62
+Defesa: 63
+Special-ataque: 80
+Special-defesa: 80
+Velocidade: 60

@@ -1,0 +1,9 @@
+Nome: Golduck
+Ordem: 94
+Peso: 766
+Hp: 80
+Ataque: 82
+Defesa: 78
+Special-ataque: 95
+Special-defesa: 80
+Velocidade: 85

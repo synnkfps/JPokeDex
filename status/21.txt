@@ -1,0 +1,9 @@
+Nome: Spearow
+Ordem: 30
+Peso: 20
+Hp: 40
+Ataque: 60
+Defesa: 30
+Special-ataque: 31
+Special-defesa: 31
+Velocidade: 70

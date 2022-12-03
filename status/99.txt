@@ -1,0 +1,9 @@
+Nome: Kingler
+Ordem: 157
+Peso: 600
+Hp: 55
+Ataque: 130
+Defesa: 115
+Special-ataque: 50
+Special-defesa: 50
+Velocidade: 75

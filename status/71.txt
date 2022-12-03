@@ -1,0 +1,9 @@
+Nome: Victreebel
+Ordem: 112
+Peso: 155
+Hp: 80
+Ataque: 105
+Defesa: 65
+Special-ataque: 100
+Special-defesa: 70
+Velocidade: 70

@@ -1,0 +1,9 @@
+Nome: Primeape
+Ordem: 96
+Peso: 320
+Hp: 65
+Ataque: 105
+Defesa: 60
+Special-ataque: 60
+Special-defesa: 70
+Velocidade: 95

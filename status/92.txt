@@ -1,0 +1,9 @@
+Nome: Gastly
+Ordem: 147
+Peso: 1
+Hp: 30
+Ataque: 35
+Defesa: 30
+Special-ataque: 100
+Special-defesa: 35
+Velocidade: 80

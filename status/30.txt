@@ -1,0 +1,9 @@
+Nome: Nidorina
+Ordem: 58
+Peso: 200
+Hp: 70
+Ataque: 62
+Defesa: 67
+Special-ataque: 55
+Special-defesa: 55
+Velocidade: 56

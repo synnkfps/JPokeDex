@@ -1,0 +1,9 @@
+Nome: Jigglypuff
+Ordem: 71
+Peso: 55
+Hp: 115
+Ataque: 45
+Defesa: 20
+Special-ataque: 45
+Special-defesa: 25
+Velocidade: 20

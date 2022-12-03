@@ -1,0 +1,9 @@
+Nome: Dodrio
+Ordem: 138
+Peso: 852
+Hp: 60
+Ataque: 110
+Defesa: 70
+Special-ataque: 60
+Special-defesa: 60
+Velocidade: 110

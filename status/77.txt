@@ -1,0 +1,9 @@
+Nome: Ponyta
+Ordem: 121
+Peso: 300
+Hp: 50
+Ataque: 85
+Defesa: 55
+Special-ataque: 65
+Special-defesa: 65
+Velocidade: 90

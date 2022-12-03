@@ -1,0 +1,9 @@
+Nome: Slowpoke
+Ordem: 125
+Peso: 360
+Hp: 90
+Ataque: 65
+Defesa: 65
+Special-ataque: 40
+Special-defesa: 40
+Velocidade: 15

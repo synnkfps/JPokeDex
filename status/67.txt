@@ -1,0 +1,9 @@
+Nome: Machoke
+Ordem: 108
+Peso: 705
+Hp: 80
+Ataque: 100
+Defesa: 70
+Special-ataque: 50
+Special-defesa: 60
+Velocidade: 45
